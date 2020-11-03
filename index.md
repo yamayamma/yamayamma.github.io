@@ -6,3 +6,8 @@
 - yama
 - 滋賀県
 - Webサービス開発
+
+# Skills
+- Windows Ubuntu
+- JavaScript C Python
+
